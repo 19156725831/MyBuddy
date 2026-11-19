@@ -1,0 +1,22 @@
+{
+    "api_base": "https://open.bigmodel.cn/api/paas/v4",
+    "api_key": "fa106391b0604e2a842c44eef1853d9c.uVKH0nRYoO29QZvc",
+    "channels": [
+        {
+            "api_key": "fa106391b0604e2a842c44eef1853d9c.uVKH0nRYoO29QZvc",
+            "base_url": "https://open.bigmodel.cn/api/paas/v4",
+            "display_name": "open.bigmodel.cn",
+            "id": "1b0c16fc-f357-45d7-abd9-4274ebeed29f",
+            "model": "glm-5.3-flash"
+        }
+    ],
+    "computer_control_enabled": true,
+    "font_size": 24,
+    "model": "glm-5.3-flash",
+    "search_count": 5,
+    "selected_channel_id": "1b0c16fc-f357-45d7-abd9-4274ebeed29f",
+    "skill_repo": "https://github.com/OWNER/REPOSITORY",
+    "task_mode_enabled": true,
+    "total_tokens": 197191,
+    "web_search_enabled": false
+}

@@ -1,0 +1,13 @@
+{
+  "skills": [
+    {
+      "name": "photo-organizer",
+      "version": "1.0.0",
+      "description": "按日期扫描、分类并整理照片和视频，复制到清晰的目录结构并生成报告。触发关键词：整理照片、照片整理、归类照片、照片分类、整理相册、photo organizer。",
+      "branch": "main",
+      "files": [
+        "SKILL.md"
+      ]
+    }
+  ]
+}

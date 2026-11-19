@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/MyBuddy/build/WorkBuddy_autogen",
+	"CMAKE_BINARY_DIR" : "C:/MyBuddy/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/MyBuddy/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/MyBuddy",
+	"CMAKE_SOURCE_DIR" : "C:/MyBuddy",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/MyBuddy/build/WorkBuddy_autogen/include",
+	"INPUTS" : [ "C:/MyBuddy/roles.json" ],
+	"LOCK_FILE" : "C:/MyBuddy/build/CMakeFiles/WorkBuddy_autogen.dir/AutoRcc_roles_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "roles" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_roles.cpp",
+	"RCC_EXECUTABLE" : "C:/msys64/ucrt64/share/qt6/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/MyBuddy/build/CMakeFiles/WorkBuddy_autogen.dir/AutoRcc_roles_UVLADIE3JM_Used.txt",
+	"SOURCE" : "C:/MyBuddy/src/roles.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,25 @@
+{
+  "tools": [
+    { "name": "list_files", "description": "列出目录内容，包含大小和修改时间。" },
+    { "name": "move_file", "description": "移动或重命名文件/文件夹。" },
+    { "name": "copy_file", "description": "复制文件或文件夹，不覆盖已存在的目标。" },
+    { "name": "delete_file", "description": "删除单个文件；递归删除文件夹需确认。" },
+    { "name": "search_files", "description": "按文件名关键字递归搜索指定目录。" },
+    { "name": "read_pdf", "description": "使用已安装的 pdftotext 提取 PDF 纯文本。" },
+    { "name": "read_image", "description": "读取不超过 10MB 的本地图片并用 GLM 视觉模型描述内容。" },
+    { "name": "get_system_info", "description": "获取 Windows、CPU、内存及磁盘剩余空间。" },
+    { "name": "list_processes", "description": "列出进程名称、PID 和内存占用。" },
+    { "name": "kill_process", "description": "按名称或 PID 结束进程。" },
+    { "name": "open_path", "description": "使用默认程序打开文件或文件夹。" },
+    { "name": "get_clipboard", "description": "读取剪贴板文本。" },
+    { "name": "set_clipboard", "description": "设置剪贴板文本。" },
+    { "name": "take_screenshot", "description": "全屏截图为 PNG，并将图片交给视觉模型。" },
+    { "name": "http_get", "description": "发送 10 秒超时的 HTTP GET 请求。" },
+    { "name": "http_post", "description": "发送 10 秒超时的 HTTP POST 请求。" },
+    { "name": "download_file", "description": "从 URL 下载文件到指定路径。" },
+    { "name": "get_ip_info", "description": "查询本机公网 IP 和网络连通状态。" },
+    { "name": "run_powershell", "description": "运行 PowerShell 脚本并返回输出。" },
+    { "name": "set_reminder", "description": "写入 reminders.json 并在到期时通知。" },
+    { "name": "text_to_speech", "description": "使用 PowerShell System.Speech 朗读文本。" }
+  ]
+}
